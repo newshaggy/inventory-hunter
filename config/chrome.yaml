@@ -1,0 +1,6 @@
+---
+refresh_interval: 5 # seconds
+max_price: 1000 # dollars/euros/etc
+urls:
+  - https://www.newegg.com/p/2AM-00H2-00009?Item=9SIASCZCAT3943&cm_sp=Homepage_SS-_-P0_9SIASCZCAT3943-_-01222021&quicklink=true
+...

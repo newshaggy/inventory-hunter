@@ -1,0 +1,34 @@
+---
+max_price: 1000 # dollars/euros/etc
+refresh_interval: .1 # seconds
+urls:
+  - https://www.newegg.com/asus-geforce-rtx-3060-ti-tuf-rtx3060ti-o8g-gaming/p/N82E16814126471?Item=N82E16814126471&Tpk=14-126-471
+  - https://www.newegg.com/asus-geforce-rtx-3060-ti-ko-rtx3060ti-o8g-gaming/p/N82E16814126474
+  - https://www.newegg.com/asus-geforce-rtx-3060-ti-rog-strix-rtx3060ti-o8g-gaming/p/N82E16814126470
+  - https://www.newegg.com/asus-geforce-rtx-3060-ti-dual-rtx3060ti-o8g/p/N82E16814126468
+  - https://www.newegg.com/evga-geforce-rtx-3060-ti-08g-p5-3667-kr/p/N82E16814487537
+  - https://www.newegg.com/evga-geforce-rtx-3060-ti-08g-p5-3663-kr/p/N82E16814487535
+  - https://www.newegg.com/gigabyte-geforce-rtx-3060-ti-gv-n306tgamingoc-pro-8gd/p/N82E16814932376?Item=N82E16814932376&Tpk=14-932-376
+  - https://www.newegg.com/gigabyte-geforce-rtx-3060-ti-gv-n306teagle-oc-8gd/p/N82E16814932378
+  - https://www.newegg.com/gigabyte-geforce-rtx-3060-ti-gv-n306tgaming-oc-8gd/p/N82E16814932377
+  - https://www.newegg.com/msi-geforce-rtx-3060-ti-rtx-3060-ti-gaming-x-trio/p/N82E16814137611?Item=N82E16814137611&Tpk=14-137-611
+  - https://www.newegg.com/msi-geforce-rtx-3060-ti-rtx-3060-ti-ventus-2x-oc/p/N82E16814137612?Item=N82E16814137612&Tpk=14-137-612
+  - https://www.newegg.com/zotac-geforce-rtx-3060-ti-zt-a30610h-10m/p/N82E16814500507
+  - https://www.newegg.com/zotac-geforce-rtx-3060-ti-zt-a30610e-10m/p/N82E16814500506
+  - https://www.bhphotovideo.com/c/product/1602755-REG/asus_dualrtx30708g_geforce_rtx_3070_8g.html
+  - https://www.bhphotovideo.com/c/product/1602756-REG/asus_strixrtx3070o8_rog_strix_geforce_rtx.html
+  - https://www.bhphotovideo.com/c/product/1598689-REG/gigabyte_gv_n3070gaming_oc_8gd_geforce_rtx_3070_gaming.html
+  - https://www.bhphotovideo.com/c/product/1599833-REG/gigabyte_gv_n3070eagle_8gd_geforce_rtx_3070_eagle.html
+  - https://www.bhphotovideo.com/c/product/1606949-REG/gigabyte_gv_n306teagle_8gd_rtx_3060_ti_eagle.html
+  - https://www.bhphotovideo.com/c/product/1609756-REG/asus_ko_rtx3060ti_o8g_gaming_ko_geforce_rtx_3060.html
+  - https://www.bhphotovideo.com/c/product/1607025-REG/asus_tuf_rtx3060ti_o8g_gaming_geforce_rtx_3060_ti.html
+  - https://www.bhphotovideo.com/c/product/1609440-REG/pny_technologies_vcg3060t8dfxppb_geforce_rtx_3060_ti.html
+  - https://www.bhphotovideo.com/c/product/1606946-REG/gigabyte_gv_n306tgamingoc_pro_8gd_rtx_3060_ti_gaming.html
+  - https://www.bhphotovideo.com/c/product/1606948-REG/gigabyte_gv_n306teagle_oc_8gd_rtx_3060_ti_eagle.html
+  - https://www.bhphotovideo.com/c/product/1606945-REG/gigabyte_gv_n306taorus_m_8gd_aorus_rtx_3060_ti.html
+  - https://www.bhphotovideo.com/c/product/1606947-REG/gigabyte_gv_n306tgaming_oc_8gd_rtx_3060_ti_gaming.html
+  - https://www.bhphotovideo.com/c/product/1610844-REG/msi_g306tv2xc_geforce_rtx_3060_ti.html
+  - https://www.bhphotovideo.com/c/product/1608081-REG/zotac_zt_a30610e_10m_gaming_geforce_rtx_3060.html
+  - https://www.bhphotovideo.com/c/product/1608111-REG/zotac_zt_a30610h_10m_gaming_geforce_rtx_3060.html
+...
+  
